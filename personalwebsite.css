@@ -1,0 +1,160 @@
+/*Set the background image to ice cream*/
+body {
+	background: url(http://www.icecreamunicorn.com/wp-content/uploads/2013/08/peanut-butter-cookie-sandwich2.jpg); 
+	font-family: 'Josefin Sans', sans-serif;
+}
+/*Color around name box*/
+.HeadingBox {
+	background-color:aquamarine;
+	  /*border-width:;*/
+	  width:40%;
+	  /*height:200px;*/
+	  padding-left:0;
+	  padding-top:0;
+	  margin-top:none;
+	  margin-left:auto;
+	  margin-right:auto;
+}
+/*Font,size,and style of heading(name) */
+h1 {
+	color:BLACK; 
+	border-width:20;
+	margin-top:0;
+    font-size: 60px; 
+    /*font-family: "Georgia",sans-serif;*/
+    text-align: center;
+    margin-bottom:0;
+}
+/*About me section*/
+.DescribeMe {
+	background-color:white;
+	list-style:none;
+	font-size:30px;
+	/*font-family:'Georgia',serif;*/
+	font-weight:bold;
+	color:#3B5998;
+	text-align:center;
+	width:40%;
+	padding-left:0;
+	padding-top:0;
+	margin-top:none;
+	margin-left:auto;
+	margin-right:auto;
+}
+/*CV,Research,Teaching,Cool Stuff*/
+.list {
+	background-color:#FAD7A0;
+	list-style:none;
+	font-size:25px;
+	/*font-family:'Georgia',serif;*/
+	font-weight:bold;
+	color:black;
+	text-align:center;
+	width:40%;
+	padding-left:0;
+	padding-top:0;
+	margin-top:0;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:0;
+}
+/*Resources Section for Unix, Chemistry & Programming*/
+.ResandSocMedia {
+	background-color:aquamarine;
+	list-style:none;
+	font-size:30px;
+	/*font-family:'Georgia',serif;*/
+	font-weight:bold;
+	color:black;
+	text-align:center;
+	width:40%;
+	padding-left:0;
+	padding-top:0;
+	margin-top:0;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:0;
+}
+/*Social Media Button Formatting */
+	/*Facebook*/
+	i.fa.fa-github{
+	border-radius: 100%;
+	font-size: 28px;
+	height: 38px;
+	line-height: 40px;
+	margin: 5px;
+	text-align: center;
+	width: 38px;
+	border: 1px solid #3B5998;
+	color: #3B5998;
+	}
+	/*Linkedin*/
+	i.fa.fa-linkedin{
+	border-radius: 100%;
+	font-size: 28px;
+	height: 38px;
+	line-height: 40px;
+	margin: 5px;
+	text-align: center;
+	width: 38px;
+	border: 1px solid #3B5998;
+	color: #3B5998;
+	}
+/*Twitter*/
+	i.fa.fa-twitter{
+	border-radius: 100%;
+	font-size: 28px;
+	height: 38px;
+	line-height: 40px;
+	margin: 5px;
+	text-align: center;
+	width: 38px;
+	border: 1px solid #3B5998;
+	color: #3B5998;
+	}
+/*Instagram*/
+	i.fa.fa-instagram{
+	border-radius: 100%;
+	font-size: 28px;
+	height: 38px;
+	line-height: 40px;
+	margin: 5px;
+	text-align: center;
+	width: 38px;
+	border: 1px solid #3B5998;
+	color: #3B5998;
+	}
+
+/*This is the white rectangle that I keep using for spacing the sections */
+.spacebox {
+	background-color:white;
+	list-style:none;
+	font-size:30px;
+	/*font-family:'Georgia',serif;*/
+	font-weight:bold;
+	color:#3B5998;
+	text-align:center;
+	width:40%;
+	padding-left:0;
+	padding-top:0;
+	margin-top:none;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+/*Link Formatting the color stuff probably isn't necessary but leaving in for future formatting example*/
+/*The text decoration tells you if it's going to be underlined or not*/
+a:link {
+	color:#000000;
+	text-decoration:none;
+}
+a:visited{
+	color:#000000;
+	text-decoration:none;
+}
+a:hover{
+	color:#000000;
+	text-decoration:underline;
+}
+
+
